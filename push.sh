@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # set -x
-# 28/5/2014 ESM : Version pour SB2BI
+
+# 30/12/2024 - rcoupe
 # DEBUG_MODE to 0 means no log - set to something different from 0 activate them
 
 DEBUG_MODE=1
